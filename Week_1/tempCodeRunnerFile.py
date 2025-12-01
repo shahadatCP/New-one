@@ -1,0 +1,8 @@
+numbers.append(56)
+print(numbers)
+numbers.insert(0,34)
+print(numbers)
+numbers.insert(2,77)
+print(numbers)
+numbers.remove(98)
+print(numbers)
